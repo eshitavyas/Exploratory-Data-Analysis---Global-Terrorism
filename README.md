@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis---Global-Terrorism
-https://public.tableau.com/app/profile/eshita.vyas/viz/GlobalTerrorismAnalysis_16972240088580/Dashboard1?publish=yes
+# Overview
+This repository contains an EDA project focused on analyzing global terrorism data. The project explores various aspects of global terrorism, aiming to provide insights and visualizations based on the dataset used.
